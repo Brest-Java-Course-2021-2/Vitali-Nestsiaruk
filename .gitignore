@@ -14,7 +14,12 @@
 .idea/
 *.iml
 
-# Package Files #
+#IntellIj
+.idea/
+*.iml
+
+#Package Files #
+target/
 target/
 *.jar
 *.war

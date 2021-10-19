@@ -8,5 +8,5 @@
 2. How to start  
    a. Clone this program by SSH link on your locale machine;
    b. Open file on your IDE;
-   c. Click "Start in main"
+   c. Click "Start in main" /b
    d. Enter nessesary values of Kg and Km in console and you get result.

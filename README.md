@@ -1,4 +1,5 @@
 # Calculation of delivery cost
+[![Java CI with Maven](https://github.com/Brest-Java-Course-2021-2/Vitali-Nestsiaruk/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Brest-Java-Course-2021-2/Vitali-Nestsiaruk/actions/workflows/maven.yml)
 
 ### 1. About
    This programm can calculate delivery cost by the following expression: <br/>
